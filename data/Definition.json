@@ -1,0 +1,7 @@
+{
+  "Title": "Definición",
+
+  "Paragrah": ["En ciencias de la computacion, una ‘’lista enlazada’’ es una estructura de datos lineal compuesta por una secuencia de nodos. Cada nodo almacena uno o más valores de datos y una o varias referencias —también llamadas ‘’enlaces’’ o ‘‘punteros’’— hacia otros nodos de la lista. las listas enlazadas constituyen la base de numerosas estructuras de datos más complejas, como las pilas, colas y diversas formas de árboles. Una lista enlazada es un tipo de dato autorreferenciado porque contienen un puntero o enlace (en inglés link, del mismo significado) a otro dato del mismo tipo. Las listas enlazadas permiten inserciones y eliminación de nodos en cualquier punto de la lista en tiempo constante (suponiendo que dicho punto está previamente identificado o localizado), pero no permiten un acceso aleatorio."],
+
+  "Img": "Img/Definition.jpg"
+}

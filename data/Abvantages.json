@@ -1,0 +1,14 @@
+{
+
+  "Title": "Ventajas de las Listas Enlazadas",
+
+  "Paragrah": [
+    "Las listas enlazadas poseen muchas ventajas sobre los vectores. Los elementos se pueden insertar en una lista indefinidamente mientras que un vector tarde o temprano se llenará o necesitará ser redimensionado, una costosa operación que incluso puede no ser posible si la memoria se encuentra fragmentada.\nEn algunos casos se pueden lograr ahorros de memoria almacenando la misma ‘cola’ de elementos entre dos o más listas – es decir, la lista acaba en la misma secuencia de elementos. De este modo, uno puede añadir nuevos elementos al frente de la lista manteniendo una referencia tanto al nuevo como a los viejos elementos - un ejemplo simple de una estructura de datos persistente. "
+  ],
+
+  "Img": ""
+
+
+
+
+}

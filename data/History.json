@@ -1,0 +1,13 @@
+{
+
+  "Title": "Historia de las Listas Enlazadas",
+
+  "Paragrah": [
+   "Las listas enlazadas fueron desarrolladas en 1955-56 por Cliff Shaw y Herbert Simón en RAND Corporation,como la principal estructura de datos para su Lenguaje de Procesamiento de la Información (IPL). IPL fue usado por los autores para desarrollar varios programas relacionados con la inteligencia artificial, incluida la Máquina de la Teoría General, el Solucionador de Problemas Generales, y un programa informático de ajedrez. Se publicó en IRE Transactions on Information Theory en 1956, y en distintas conferencias entre 1957-1959, incluida Proceedings of the Western Joint Computer en 1957 y 1958, y en Information Processing (Procedentes de la primera conferencia internacional del procesamiento de la información de la Unesco) en 1959. El diagrama clásico actual, que consiste en bloques que representan nodos de la lista con flechas apuntando a los sucesivos nodos de la lista, apareció en Programming the Logic Theory Machine, de Newell y Shaw. Newell y Simón fueron reconocidos por el ACM Turing Award en 1975 por “hacer contribuciones básicas a la inteligencia artificial, a la psicología del conocimiento humano y al procesamiento de las listas”. "
+  ],
+
+  "Img": "Img/History.jpg"
+
+
+
+}
